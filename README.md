@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently searching job
-- 🌱 I’m currently learning to build apps for Android/IOS
+- 🌱 I’m currently learning to build apps for Android/IOS using Flutter
 - 👯 I’m looking to collaborate on any open-source Flutter projects
 - 💬 Ask me about Dart,Flutter,Mobile Development
 - 📫 How to reach me:
