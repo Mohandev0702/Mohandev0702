@@ -1,5 +1,5 @@
-###                        Hi 👋, I'm Mohan
-                      A self-taught programmer
+ ###Hi 👋, I'm Mohan
+		     
 - 🔭 I’m currently searching job
 - 🌱 I’m currently learning to build apps for Android/IOS using Flutter
 - 👯 I’m looking to collaborate on any open-source Flutter projects
